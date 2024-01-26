@@ -1,0 +1,154 @@
+td {
+    padding: 10px;
+    margin-left: 0;
+    text-align: left;
+}
+h1 {
+    top: 10px;
+    position: absolute;
+    left: 860px;
+}
+table{
+    top:150px;
+    background-color: whitesmoke;
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px ;
+}
+
+table{
+    width: 1500px;
+    position: fixed;
+    left: 260px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #3c343d;
+    max-width: 1870px;
+    margin-right: 20px;
+}
+
+h1 {
+    color: #fdfdfe;
+    text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+    0px 0px 20px #b393d3;
+}
+
+form {
+    margin-bottom: 10px;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+    border-color: black;
+
+}
+td{
+    background-color: #61496e;
+    color: #FFFFFF;
+}
+
+th {
+    background-color: #7d0061;
+    color: #FFFFFF;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #7d0061;
+    color:white;
+    text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+    0px 0px 20px #b393d3;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #61496e;
+    color: white;
+    text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+    0px 0px 20px #b393d3;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.modal-content {
+    background-color: #3c343d;
+    margin: 10% auto;
+    padding: 20px;
+    border: 1px solid #3c343d;
+    width: 40%;
+    text-align: center;
+    z-index: inherit;
+}
+
+.close {
+    color: white;
+    text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+    0px 0px 20px #b393d3;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: black;
+}
+#verti {
+    width: 250px;
+    height: 220px;
+    position: fixed;
+    left: -250px;
+    top: 120px;
+    background-color: black;
+    padding-top: 60px;
+    margin: 1% auto;
+    transition: 0.3s;
+}
+
+#verti a {
+    padding: 15px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #fdfdfe;
+    text-shadow: 0px 0px 5px #b393d3, 0px 0px 10px #b393d3, 0px 0px 10px #b393d3,
+    0px 0px 20px #b393d3;
+    display: block;
+    transition: 0.3s;
+    text-align: center;
+}
+
+#verti a:hover {
+    background-color: #1C1C1C;
+}
+#content {
+    margin: 0;
+    padding: 15px;
+}
+
+#lisa input{
+    padding:15px;
+}
