@@ -14,12 +14,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 
 <a href="https://darjamiljukova22.thkit.ee/jsleht/content/andmebaas/proekt/registr.php">
     <img src="images/skrin.png" alt="Logo" width="800" height="400">
-</a>
-
-| Osa           | Õigused       
-| ------------- |:-------------:
-| Admin         | Lisamine/Muutmine/Kustuta andmed pidud ja andmed kasutaja
-| Kasutaja      | Registreerimine pidule    
+</a>    
 
 ### Projekt loodi koostöös
 * [![XAMPP][XAMPP-shield]][XAMPP-url]
@@ -27,7 +22,20 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 * [![CSS][CSS-shield]][CSS-url]
 * [![JavaScript][JavaScript-shield]][JavaScript-url]
 
-## Kasutaja tee
+<br>
+
+## Lühike selgitus selle kohta, mida kasutajad saavad teha
+
+
+| Osa           | Õigused       
+| ------------- |:-------------:
+| Admin         | Lisamine/Muutmine/Kustuta andmed pidud ja andmed kasutaja
+| Kasutaja      | Registreerimine pidule
+
+<br>
+<br>
+
+### Kasutaja tee
 
 - [ ] Registreerimine
 - [ ] Logi sisse
@@ -35,8 +43,9 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
     - [ ] Registreerimine pidule
 - [ ] Logi välja
 
+<br>
 
-## Admin tee
+### Admin tee
 
 - [ ] Autoriseerimine
 - [ ] Kasutaja andmed vaatamine
@@ -46,6 +55,8 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
     - [ ] Kustutamine pidu andmed
     - [ ] Muutmine pidu andmed
 - [ ] Logi välja
+
+<br>
 
 ![pilt](https://github.com/DarjaMiljukova/pidu-proekt/assets/120181585/c18e840e-ba95-4a96-a2d1-e97b575891ca)
 ![pilt](https://github.com/DarjaMiljukova/pidu-proekt/assets/120181585/c0257813-76d3-4686-aa52-1de2c3ecefde)
