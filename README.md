@@ -16,7 +16,10 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
     <img src="images/skrin.png" alt="Logo" width="800" height="400">
 </a>
 
-
+| Osa           | Õigused       
+| ------------- |:-------------:
+| Admin         | Lisamine/Muutmine/Kustuta andmed pidud ja andmed kasutaja
+| Kasutaja      | Registreerimine pidule    
 
 ### Projekt loodi koostöös
 * [![XAMPP][XAMPP-shield]][XAMPP-url]
