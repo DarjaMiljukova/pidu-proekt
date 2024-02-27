@@ -46,7 +46,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 
 <br>
 
-### ${\color{green}Admin tee}$
+### ${\color{violet}Admin tee}$
 
 - [ ] Autoriseerimine
 - [ ] Kasutaja andmed vaatamine
