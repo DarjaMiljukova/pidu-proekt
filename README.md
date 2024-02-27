@@ -17,7 +17,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
     <img src="images/skrin.png" alt="Logo" width="800" height="400">
 </a>    
 
-### ${\color{violet}Projekt loodi koostöös }$
+### ${\color{violet}Programmid}$
 * [![XAMPP][XAMPP-shield]][XAMPP-url]
 * [![PHP][PHP-shield]][PHP-url]
 * [![CSS][CSS-shield]][CSS-url]
