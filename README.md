@@ -1,4 +1,5 @@
-# Peoõhtu registreerimisvorm
+# ${\color{violet}Peoõhtu registreerimisvorm}$
+
 <div align="center">
     <img src="images/party.jpg" alt="Logo" width="600" height="400">
 
@@ -10,13 +11,13 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 > Tavakasutajal on ainult üks lehekülg, kuid administraatoril on 2 lehekülge.
 > 
 
-## Minu veebisait
+## ${\color{violet}Minu veebisait}$
 
 <a href="https://darjamiljukova22.thkit.ee/jsleht/content/andmebaas/proekt/registr.php">
     <img src="images/skrin.png" alt="Logo" width="800" height="400">
 </a>    
 
-### Projekt loodi koostöös
+### ${\color{violet}Projekt loodi koostöös }$
 * [![XAMPP][XAMPP-shield]][XAMPP-url]
 * [![PHP][PHP-shield]][PHP-url]
 * [![CSS][CSS-shield]][CSS-url]
@@ -24,7 +25,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 
 <br>
 
-## Lühike selgitus selle kohta, mida kasutajad saavad teha
+## ${\color{violet}Lühike selgitus selle kohta, mida kasutajad saavad teha }$
 
 
 | Osa           | Õigused       
@@ -35,7 +36,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 <br>
 <br>
 
-### Kasutaja tee
+ ### ${\color{violet}Kasutaja tee}$
 
 - [ ] Registreerimine
 - [ ] Logi sisse
@@ -45,7 +46,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 
 <br>
 
-### Admin tee
+### ${\color{green}Admin tee}$
 
 - [ ] Autoriseerimine
 - [ ] Kasutaja andmed vaatamine
