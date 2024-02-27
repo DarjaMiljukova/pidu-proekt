@@ -9,22 +9,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 >
 > Tavakasutajal on ainult üks lehekülg, kuid administraatoril on 2 lehekülge.
 > 
-**See on kood, mis paneb kasutajad nägema kõiki osapooli/sündmusi.**
-```
-    <?php
-    global $yhendus;
-    $kask=$yhendus->prepare("SELECT Id, Tuup, PiduNimi, Aeg FROM pidu");
-    $kask->bind_result($id, $tuup, $pidunimi, $aeg);
-    $kask->execute();
-    while ($kask->fetch()) {
-        echo "<tr>";
-        echo "<td>".$tuup."</td>";
-        echo "<td>".$pidunimi."</td>";
-        echo "<td>".$aeg."</td>";
-        echo "</tr>";
-    }
-    ?>
-```
+
 ## Minu veebisait
 
 <a href="https://darjamiljukova22.thkit.ee/jsleht/content/andmebaas/proekt/registr.php">
@@ -58,6 +43,10 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
     - [ ] Muutmine pidu andmed
 - [ ] Logi välja
 
+![pilt](https://github.com/DarjaMiljukova/pidu-proekt/assets/120181585/c18e840e-ba95-4a96-a2d1-e97b575891ca)
+![pilt](https://github.com/DarjaMiljukova/pidu-proekt/assets/120181585/c0257813-76d3-4686-aa52-1de2c3ecefde)
+
+
 
 [XAMPP-shield]: https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white
 [XAMPP-url]: https://www.apachefriends.org/index.html
@@ -69,3 +58,19 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
 [product-screenshot]: images/skrin.png
+**See on kood, mis paneb kasutajad nägema kõiki osapooli/sündmusi.**
+```
+    <?php
+    global $yhendus;
+    $kask=$yhendus->prepare("SELECT Id, Tuup, PiduNimi, Aeg FROM pidu");
+    $kask->bind_result($id, $tuup, $pidunimi, $aeg);
+    $kask->execute();
+    while ($kask->fetch()) {
+        echo "<tr>";
+        echo "<td>".$tuup."</td>";
+        echo "<td>".$pidunimi."</td>";
+        echo "<td>".$aeg."</td>";
+        echo "</tr>";
+    }
+    ?>
+```
