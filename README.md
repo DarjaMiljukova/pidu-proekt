@@ -22,6 +22,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 * [![XAMPP][XAMPP-shield]][XAMPP-url]
 * [![PHP][PHP-shield]][PHP-url]
 * [![CSS][CSS-shield]][CSS-url]
+* [![JavaScript][JavaScript-shield]][JavaScript-url]
 
 ## Kasutaja tee
 
@@ -57,8 +58,11 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 [CSS-shield]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
+[JavaScript-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 [product-screenshot]: images/skrin.png
-**See on kood, mis paneb kasutajad nägema kõiki osapooli/sündmusi.**
+**See on kood, mis paneb kasutajad nägema kõiki pidud/sündmusi.**
 ```
     <?php
     global $yhendus;
