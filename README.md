@@ -11,7 +11,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 > Tavakasutajal on ainult üks lehekülg, kuid administraatoril on 2 lehekülge.
 > 
 
-## ${\color{violet}Minu veebisait}$
+## ${\color{violet}Veebisait}$
 
 <a href="https://darjamiljukova22.thkit.ee/jsleht/content/andmebaas/proekt/registr.php">
     <img src="images/skrin.png" alt="Logo" width="800" height="400">
@@ -25,7 +25,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 
 <br>
 
-## ${\color{violet}Lühike selgitus selle kohta, mida kasutajad saavad teha }$
+## ${\color{violet}Võimalused}$
 
 
 | Osa           | Õigused       
@@ -36,7 +36,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 <br>
 <br>
 
- ### ${\color{violet}Kasutaja tee}$
+ ### ${\color{violet}Kasutaja}$
 
 - [ ] Registreerimine
 - [ ] Logi sisse
@@ -46,7 +46,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
 
 <br>
 
-### ${\color{violet}Admin tee}$
+### ${\color{violet}Admin}$
 
 - [ ] Autoriseerimine
 - [ ] Kasutaja andmed vaatamine
