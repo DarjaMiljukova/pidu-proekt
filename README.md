@@ -25,7 +25,7 @@ _**Minu projekt, on vormi sait sirvida ja registreerida kasutaja-poolne puhkus**
     }
     ?>
 ```
-## About The Project
+## Minu veebisait
 
 <a href="https://darjamiljukova22.thkit.ee/jsleht/content/andmebaas/proekt/registr.php">
     <img src="images/skrin.png" alt="Logo" width="600" height="400">
